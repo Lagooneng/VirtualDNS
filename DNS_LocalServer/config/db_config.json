@@ -1,0 +1,9 @@
+{
+    "type" : "mysql",
+    "user" : "root",
+    "password" : "asml00",
+    "protocol" : "tcp",
+    "port" : 3306,
+    "host" : "127.0.0.1",
+    "database" : "dns"
+}
